@@ -1,0 +1,5 @@
+Credentials cache: API:A3931E1A-B8D6-422B-A067-8636FE4E34EB
+        Principal: mtan@42.US.ORG
+
+  Issued                Expires               Principal
+Apr  4 23:31:35 2017  Apr  5 09:31:35 2017  krbtgt/42.US.ORG@42.US.ORG
